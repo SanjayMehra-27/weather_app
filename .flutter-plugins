@@ -1,9 +1,9 @@
 # This is a generated file; do not edit or check into version control.
-geolocator=C:\\Users\\VISHAGAR KARTHICK\\Downloads\\flutter_windows_2.2.2-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-7.7.0\\
-geolocator_android=C:\\Users\\VISHAGAR KARTHICK\\Downloads\\flutter_windows_2.2.2-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator_android-2.1.0\\
-geolocator_apple=C:\\Users\\VISHAGAR KARTHICK\\Downloads\\flutter_windows_2.2.2-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator_apple-1.2.2\\
-geolocator_web=C:\\Users\\VISHAGAR KARTHICK\\Downloads\\flutter_windows_2.2.2-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator_web-2.0.6\\
-path_provider=C:\\Users\\VISHAGAR KARTHICK\\Downloads\\flutter_windows_2.2.2-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-2.0.5\\
-path_provider_linux=C:\\Users\\VISHAGAR KARTHICK\\Downloads\\flutter_windows_2.2.2-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-2.1.0\\
-path_provider_macos=C:\\Users\\VISHAGAR KARTHICK\\Downloads\\flutter_windows_2.2.2-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-2.0.2\\
-path_provider_windows=C:\\Users\\VISHAGAR KARTHICK\\Downloads\\flutter_windows_2.2.2-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-2.0.3\\
+geolocator=/Users/macmini3/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-7.7.0/
+geolocator_android=/Users/macmini3/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-2.1.0/
+geolocator_apple=/Users/macmini3/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_apple-1.2.2/
+geolocator_web=/Users/macmini3/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_web-2.0.6/
+path_provider=/Users/macmini3/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.5/
+path_provider_linux=/Users/macmini3/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.0/
+path_provider_macos=/Users/macmini3/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.2/
+path_provider_windows=/Users/macmini3/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3/

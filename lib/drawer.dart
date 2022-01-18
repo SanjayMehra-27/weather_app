@@ -15,7 +15,7 @@ class NavigationDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final padding=EdgeInsets.symmetric(horizontal: 20);
-    return Drawer(backgroundColor: Colors.cyanAccent,
+    return Drawer(
       child: ListView(
 
         padding: EdgeInsets.zero,
