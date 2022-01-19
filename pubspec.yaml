@@ -30,7 +30,7 @@ dependencies:
   geolocator: ^7.7.0
   flutter_spinkit: ^5.1.0
   connectivity: ^3.0.6
-
+  provider: ^2.0.1
   animated_splash_screen: ^1.1.0
 
 

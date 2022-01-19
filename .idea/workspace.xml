@@ -25,17 +25,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68c7b6cb-252d-4321-9515-6e8ff38194f1" name="Default Changelist" comment="check">
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/back1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/connectivity.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utilities/snack_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utilities/snack_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/more.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/more.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/location_screens.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/location_screens.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +66,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VISHAGAR KARTHICK\AndroidStudioProjects\weather_app\weather_app\images" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -71,28 +85,41 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1642497143812">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1642576427577">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1642497143812" />
-    <state width="1476" height="205" key="GridCell.Tab.0.bottom" timestamp="1642497156871">
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1642576427577" />
+    <state width="1476" height="203" key="GridCell.Tab.0.bottom" timestamp="1642576496349">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1476" height="205" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642497156871" />
-    <state width="1476" height="205" key="GridCell.Tab.0.center" timestamp="1642497156871">
+    <state width="1476" height="203" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642576496349" />
+    <state width="1476" height="203" key="GridCell.Tab.0.center" timestamp="1642576496348">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1476" height="205" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642497156871" />
-    <state width="1476" height="205" key="GridCell.Tab.0.left" timestamp="1642497156871">
+    <state width="1476" height="203" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642576496348" />
+    <state width="1476" height="203" key="GridCell.Tab.0.left" timestamp="1642576496348">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1476" height="205" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642497156871" />
-    <state width="1476" height="205" key="GridCell.Tab.0.right" timestamp="1642497156871">
+    <state width="1476" height="203" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642576496348" />
+    <state width="1476" height="203" key="GridCell.Tab.0.right" timestamp="1642576496348">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1476" height="205" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642497156871" />
+    <state width="1476" height="203" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642576496348" />
+    <state x="492" y="320" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1642573642920">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="492" y="320" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.816@0.0.1536.816" timestamp="1642573642920" />
   </component>
 </project>
