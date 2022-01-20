@@ -25,14 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68c7b6cb-252d-4321-9515-6e8ff38194f1" name="Default Changelist" comment="check">
-      <change afterPath="$PROJECT_DIR$/images/back1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/connectivity.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/more.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/more.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/view/location_screens.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/location_screens.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,26 +91,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1642576427577">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1642597772757">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1642576427577" />
-    <state width="1476" height="203" key="GridCell.Tab.0.bottom" timestamp="1642576496349">
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1642597772757" />
+    <state width="1476" height="203" key="GridCell.Tab.0.bottom" timestamp="1642655963285">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1476" height="203" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642576496349" />
-    <state width="1476" height="203" key="GridCell.Tab.0.center" timestamp="1642576496348">
+    <state width="1476" height="203" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642655963285" />
+    <state width="1476" height="203" key="GridCell.Tab.0.center" timestamp="1642655963285">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1476" height="203" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642576496348" />
-    <state width="1476" height="203" key="GridCell.Tab.0.left" timestamp="1642576496348">
+    <state width="1476" height="203" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642655963285" />
+    <state width="1476" height="203" key="GridCell.Tab.0.left" timestamp="1642655963285">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1476" height="203" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642576496348" />
-    <state width="1476" height="203" key="GridCell.Tab.0.right" timestamp="1642576496348">
+    <state width="1476" height="203" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642655963285" />
+    <state width="1476" height="203" key="GridCell.Tab.0.right" timestamp="1642655963285">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1476" height="203" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642576496348" />
+    <state width="1476" height="203" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642655963285" />
     <state x="492" y="320" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1642573642920">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
