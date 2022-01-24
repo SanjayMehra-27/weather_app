@@ -25,21 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68c7b6cb-252d-4321-9515-6e8ff38194f1" name="Default Changelist" comment="check">
-      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/service/notification_service.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/view/notificationui.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/drawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/drawer.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/service/weather_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/service/weather_service.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,22 +108,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1642978144873" />
-    <state width="1491" height="199" key="GridCell.Tab.0.bottom" timestamp="1643001270518">
+    <state width="1491" height="656" key="GridCell.Tab.0.bottom" timestamp="1643003343791">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1491" height="199" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1643001270518" />
-    <state width="1491" height="199" key="GridCell.Tab.0.center" timestamp="1643001270518">
+    <state width="1491" height="656" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1643003343791" />
+    <state width="1491" height="656" key="GridCell.Tab.0.center" timestamp="1643003343791">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1491" height="199" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1643001270518" />
-    <state width="1491" height="199" key="GridCell.Tab.0.left" timestamp="1643001270518">
+    <state width="1491" height="656" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1643003343791" />
+    <state width="1491" height="656" key="GridCell.Tab.0.left" timestamp="1643003343778">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1491" height="199" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1643001270518" />
-    <state width="1491" height="199" key="GridCell.Tab.0.right" timestamp="1643001270518">
+    <state width="1491" height="656" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1643003343712" />
+    <state width="1491" height="656" key="GridCell.Tab.0.right" timestamp="1643003343791">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1491" height="199" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1643001270518" />
+    <state width="1491" height="656" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1643003343791" />
     <state x="474" y="112" width="588" height="592" key="find.popup" timestamp="1642974322502">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
