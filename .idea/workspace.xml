@@ -24,7 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68c7b6cb-252d-4321-9515-6e8ff38194f1" name="Default Changelist" comment="updated">
+    <list default="true" id="68c7b6cb-252d-4321-9515-6e8ff38194f1" name="Default Changelist" comment="updatedvk">
       <change beforePath="$PROJECT_DIR$/lib/drawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/drawer.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +107,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="updatedvk" />
+    <option name="LAST_COMMIT_MESSAGE" value="updatedvk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="630" key="AVDManager" timestamp="1642974729778">
