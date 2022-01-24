@@ -3,6 +3,7 @@ import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:weather_app/lastweek.dart';
 //import 'package:weather_app/location_screens.dart';
 import 'package:weather_app/view/location_screens.dart';
+import 'package:weather_app/view/notificationui.dart';
 
 import 'more.dart';
 import 'lastweek.dart';
@@ -62,7 +63,18 @@ class NavigationDrawer extends StatelessWidget {
               );
             },
           ),
-
+          ListTile(
+            selected: true,
+            leading: Icon(Icons.notification_important),
+            title: Text('Notification', style: TextStyle(color: Colors.black),),
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder:
+                    (context) => NotificationPage()),
+              );
+            },
+          ),
         ],
       ),
 
